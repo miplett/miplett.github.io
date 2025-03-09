@@ -8,22 +8,22 @@
 },
 "Contact": {
   "EMail": "mplett@spu.edu",
-  "Phone": "(206) 555-5555",
-  "Portfolio": "https://www.github.com",
+  "Phone": "(206) 281-2444",
+  "Portfolio": "https://miplett.github.io",
   "LinkedIn": "https://linkedin.com",
   "GitHub": "https://www.github.com"
 },
 "Experience": {
-  "ExperienceText": "Use this area to explain how you got to where you are and what you are currently doing now.<br><br>This is a good spot to talk yourself up.",
+  "ExperienceText": "28 years teaching engineering courses, 8 years as an electrical engienering department chair, and 7 years as the Director of Engineering and Computer Scienc.",
   "School": "Seattle Pacific University",
   "Major": "Computer Science",
-  "Graduation": "June 2023",
-  "EducationText": "Use this to add some narrative to your education section",
+  "Graduation": "June 1991",
+  "EducationText": "BSEE 1991, MSEE University of Washington 1993, PhD EE University of Washington 2000",
   "Employment": "Seattle Pacific University",
-  "Role": "Computer Science Lab Assistant",
-  "EmploymentText": "Use this to add some narrative to your employment section",
-  "Skills": ["C++", " JavaScript", " Node", " CSS"," HTML"],
-  "SkillsText": "Use this to add some narrative to your skills section",
+  "Role": "Professor and Chair of Electrical Engineering and Director of Engineering and Computer Science",
+  "EmploymentText": "OMH",
+  "Skills": ["Non-statinary Signal Processing", " Biomedical ultrasound", " Electric Circuits", " teaching engineering"," teaching introductory C++ "],
+  "SkillsText": "Experience teaching engineering writing",
   "Resume": "student-resume.pdf"  
 },
 "Project1": {
